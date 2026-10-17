@@ -1,0 +1,9 @@
+node_modules
+.git
+.github
+.wrangler
+.dev.vars
+.vscode
+README.md
+assets
+worker-configuration.d.ts
